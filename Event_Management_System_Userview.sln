@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Management_System_Userview", "Event_Management_System_Userview\Event_Management_System_Userview.csproj", "{09B43FF2-B8F8-4F10-B405-784F39F0C513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Management_System_Userview.Tests", "Event_Management_System_Userview.Tests\Event_Management_System_Userview.Tests.csproj", "{01B91F83-7D56-4CF9-838F-AA25D4189654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B43FF2-B8F8-4F10-B405-784F39F0C513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B43FF2-B8F8-4F10-B405-784F39F0C513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B43FF2-B8F8-4F10-B405-784F39F0C513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B43FF2-B8F8-4F10-B405-784F39F0C513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B91F83-7D56-4CF9-838F-AA25D4189654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B91F83-7D56-4CF9-838F-AA25D4189654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B91F83-7D56-4CF9-838F-AA25D4189654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B91F83-7D56-4CF9-838F-AA25D4189654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {918B27F4-5510-4F35-84BA-9C20EAB46F48}
+	EndGlobalSection
+EndGlobal
