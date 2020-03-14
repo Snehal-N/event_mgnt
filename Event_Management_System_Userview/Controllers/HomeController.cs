@@ -9,6 +9,7 @@ namespace Event_Management_System_Userview.Controllers
     public class HomeController : Controller
     {
         // GET: Home
+        //hello hi
         public ActionResult Home()
         {
             return View();
